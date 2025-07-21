@@ -1,10 +1,10 @@
-# 📊 Regional Sales Analysis - EDA & Dashboard
+#  Regional Sales Analysis - EDA & Dashboard
 
 This project presents an in-depth **Exploratory Data Analysis (EDA)** on a regional sales dataset and visual storytelling using **Power BI**. It aims to extract meaningful business insights from raw data, uncover trends, and build interactive dashboards for decision-makers.
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 This project involves:
 
@@ -15,7 +15,7 @@ This project involves:
 
 ---
 
-## 📁 Files in This Repository
+##  Files in This Repository
 
 | File Name                          | Description                                                  |
 |-----------------------------------|--------------------------------------------------------------|
@@ -26,7 +26,7 @@ This project involves:
 
 ---
 
-## 🧪 Technologies Used
+##  Technologies Used
 
 - **Python 3**
   - pandas, numpy
@@ -37,7 +37,7 @@ This project involves:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Identified high-performing regions by revenue and profit margins  
 - Detected seasonal and monthly sales trends  
@@ -46,15 +46,15 @@ This project involves:
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
-### 📌 Prerequisites
+###  Prerequisites
 
 - Python 3.x  
 - Jupyter Notebook  
 - Power BI Desktop  
 
-### 🧑‍💻 Running the Notebook
+###  Running the Notebook
 
 1. Clone this repository:
    ```bash
@@ -74,7 +74,7 @@ This project involves:
 
 4. Open `EDA_Regional_Sales_Analysis.ipynb` and run the cells sequentially.
 
-### 📈 Viewing the Dashboard
+###  Viewing the Dashboard
 
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).  
 2. Open the `SALES REPORT.pbix` file.  
@@ -82,7 +82,7 @@ This project involves:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Mukesh Mandala**  
 📧 your-mandalamukesh70@gmail.com  
@@ -90,6 +90,6 @@ This project involves:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute it.
